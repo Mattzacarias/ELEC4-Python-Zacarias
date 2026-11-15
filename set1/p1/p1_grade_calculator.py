@@ -1,5 +1,5 @@
 
-# Name: [YOUR FULL NAME]
+# Name: Benedict Matthew Zacarias
 # Section: IV-BSIT A
 # Activity: P1 - Student Grade Calculator
 # Date: November 15, 2026
