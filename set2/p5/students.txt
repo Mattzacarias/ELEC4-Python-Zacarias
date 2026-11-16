@@ -1,0 +1,5 @@
+2023-001|Juan Dela Cruz|IV-BSIT A|88.5
+2023-002|Maria Santos|IV-BSIT A|91.0
+2023-003|Pedro Reyes|IV-BSIT B|84.25
+2023-004|Ana Mendoza|IV-BSIT B|89.75
+2023-005|Carlo Bautista|IV-BSIT C|86.0
