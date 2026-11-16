@@ -3,3 +3,5 @@
 2023-003|Pedro Reyes|IV-BSIT B|84.25
 2023-004|Ana Mendoza|IV-BSIT B|89.75
 2023-005|Carlo Bautista|IV-BSIT C|86.0
+23LN5100|Benedict Matthew O. Zacarias|IV-BSIT-A|93.0
+5|Jose Marie Chan|IV-BSIT-A|90.0

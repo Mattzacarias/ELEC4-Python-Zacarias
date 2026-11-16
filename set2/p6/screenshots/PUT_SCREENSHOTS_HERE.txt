@@ -1,1 +1,0 @@
-Ilagay dito ang actual screenshots ng iyong program output bago mag-push sa GitHub at mag-upload sa Google Drive.

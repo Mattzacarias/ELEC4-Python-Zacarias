@@ -1,6 +1,6 @@
 """
-Full Name: [Your Full Name]
-Section: [IV-BSIT A/B/C]
+Full Name: Benedict Matthew O. Zacarias
+Section: IV-BSIT-A
 Activity Code: P5 - Student Information File System
 Date: December 2026
 """

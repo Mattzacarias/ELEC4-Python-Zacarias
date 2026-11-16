@@ -1,8 +1,8 @@
 """
-Full Name: [Your Full Name]
-Section: [IV-BSIT A/B/C]
+Full Name: Benedict Matthew O. Zacarias
+Section: IV-BSIT-A
 Activity Code: P8 - Inheritance and Polymorphism
-Date: December 2026
+Date: December 17, 2026
 """
 
 # Parent Class
@@ -36,8 +36,8 @@ class Teacher(Person):
 
 def main():
     # Gumawa ng objects mula sa parent at child classes
-    person1 = Person("Mang Kanor", 50)
-    student1 = Student("Anna Reyes", 21, "BSIT")
+    person1 = Person("Benedict Matthew Zacarias", 25)
+    student1 = Student("Rhuella Untalan", 21, "BSIT")
     teacher1 = Teacher("Carl Ferrer", 30, "Python & Node.js")
 
     # Polymorphism: pagsama-samahin sa iisang list at tawagin ang introduce()

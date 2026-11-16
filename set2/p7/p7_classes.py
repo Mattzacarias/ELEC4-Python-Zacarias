@@ -1,8 +1,8 @@
 """
-Full Name: [Your Full Name]
-Section: [IV-BSIT A/B/C]
+Full Name: Benedict Matthew O. Zacarias
+Section: IV-BSIT-A
 Activity Code: P7 - Student Management System with Classes
-Date: December 2026
+Date: December 17, 2026
 """
 
 # Class 1: Subject
