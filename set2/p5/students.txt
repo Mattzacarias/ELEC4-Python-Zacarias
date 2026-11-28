@@ -5,5 +5,3 @@
 2023-005|Carlo Bautista|IV-BSIT C|86.0
 23LN5100|Benedict Matthew O. Zacarias|IV-BSIT-A|93.0
 5|Jose Marie Chan|IV-BSIT-A|90.0
-23-LN-5100|Benedict Matthew O. Zacarias|IV-BSIT-A|90.0
-23-LN-5102|ZACARIAS, BENEDICT MATTHEW O.|IV-BSIT-B|89.0

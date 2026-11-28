@@ -32,7 +32,7 @@ class Teacher(Person):
 
     # Method overriding
     def introduce(self):
-        print(f"Magandang araw! Ako si Sir {self.name} ({self.age}), nagtuturo ng {self.subject}.")
+        print(f"Magandang araw! Ako si Sir/Ma'am {self.name} ({self.age}), nagtuturo ng {self.subject}.")
 
 def main():
     # Gumawa ng objects mula sa parent at child classes
@@ -50,7 +50,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Explanation: (Inheritance at Polymorphism):
+# Paliwanag (Inheritance at Polymorphism):
 # Ipinapakita ng program ang inheritance dahil ang Student at Teacher ay parehong nagmana ng mga
 # katangian (name at age) at method mula sa parent class na Person gamit ang super().__init__().
 # Ang polymorphism naman ay makikita nang ni-override ng Student at Teacher ang introduce() method
